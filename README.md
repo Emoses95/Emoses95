@@ -1,6 +1,6 @@
 ### Hi there I'm Elijah 👋
 
-Portfolio Link [Elijah Collins] [github]
+Portfolio Link [Elijah Collins][github]
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
